@@ -1,6 +1,9 @@
 
 # 2D Radar
 UP TO DATE(undetected)! February 2024
+- Anticheat status:
+- BattlEyE - Undetected
+- HWID Spoofer - Undetected
 
 ## Demo
 
