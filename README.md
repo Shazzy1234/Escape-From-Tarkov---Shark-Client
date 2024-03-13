@@ -59,11 +59,11 @@ https://i.imgur.com/LmVx30O.gif
 
 ## Run Locally
 
-Open a winrar 
-Extract 
-Run a file "EFT-Shark"
-BE CAREFUL - AFTER U DO THAT THEN ONLY OPEN EFT!
-Enjoy
+1.Open a winrar.
+2.Extract.
+3.Run a file "EFT-Shark".
+4.BE CAREFUL - AFTER U DO THAT THEN ONLY OPEN EFT!
+5.Enjoy.
 
 ## Support
 
