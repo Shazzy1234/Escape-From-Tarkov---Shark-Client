@@ -1,8 +1,6 @@
-UP TO DATE(undetected)! February 2024
 
 # 2D Radar
-
-A simple OpenGL powered 2D radar for Escape From Tarkov backed by network socket communication.
+UP TO DATE(undetected)! February 2024
 
 ## Demo
 
